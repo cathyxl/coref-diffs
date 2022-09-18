@@ -5,9 +5,9 @@ This project hosts the code and dataset for Coref-Diffs.
 
 ## Download data
 
-Download the dataset and pre-trained weights for WoW and Holl-E.
+Download the [dataset](https://drive.google.com/file/d/1AF7qM6lkhW3CkQD4ni1Jsr1I8y5ecGbP/view?usp=sharing) and [model weights](https://drive.google.com/file/d/1RkZFJ_jGWp8T7QiIpAuDOEaSFl_spt-k/view?usp=sharing) for WoW.
 
-The selector checkpoints for WoW is saved to 'models/wow'. The dataset for WoW is saved to 'data/wow'
+The selector checkpoints is saved to 'models/wow'. The dataset is saved to 'data/wow'.
 
 
 
