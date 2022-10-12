@@ -1,6 +1,6 @@
 # CorefDiffs: Co-referential and Differential Knowledge Flow in Document Grounded Conversations
 
-This project hosts the code and dataset for Coref-Diffs.
+This project hosts the code and dataset for CorefDiffs.
 
 
 ## Download data
